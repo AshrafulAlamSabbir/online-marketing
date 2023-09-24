@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+
+}
+
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;*/
+.home {
+    color: rgba(0, 0, 0, .9) !important;
+}
+
+.header {
+    background-color: #fceae8 !important;
+    border-radius: 10px !important;
+}
+
+.text-center {
+    margin-bottom: 100px !important;
+}
+
+.cat-1 {
+    background-color: orange !important;
+    padding: 10px 30px !important;
+    border-radius: 10px !important;
+    height: 102px;
+    width: 362px;
+}
+
+.cat-1 img {
+    height: 90px !important;
+}
+
+.cat-2 {
+    background-color: orchid !important;
+    padding: 10px 30px !important;
+    border-radius: 10px !important;
+    height: 102px;
+    width: 362px;
+}
+
+.cat-2 img {
+    height: 90px !important;
+}
+
+.cat-3 {
+    background-color: blue !important;
+    padding: 10px 30px !important;
+    border-radius: 10px !important;
+    height: 102px;
+    width: 362px;
+}
+
+.cat-3 img {
+    height: 90px !important;
+}
+
+.shoe {
+    margin-bottom: 100px !important;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+    margin-bottom: 5px;
+}
+
+.btn1 {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+    margin-bottom: 6px;
+    margin-top: 77px;
+    width: 136px;
+}
+
+.btn2 {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+    margin-bottom: 5px;
+    margin-top: 106px;
+    width: 136px;
+}
+
+.card-text {
+    margin-bottom: 32px;
+}
+
+.footer {
+    background-color: #fceae8;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    height: 300px;
+}
